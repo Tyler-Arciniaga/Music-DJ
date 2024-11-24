@@ -1,6 +1,6 @@
 # Music Recommendations Bot
 
-Allows users to input an artist's name and then recieve 20 recommendations based on user input utilizing the spoitfy for developers web API.
+Allows users to input an artist's name and then recieve 20 recommendations based on user input utilizing the Spotify for developers web API.
 
 ## Instructions
 1. Clone the repository: "git clone https://github.com/Tyler-Arciniaga/Music-Recommendation-Bot"
